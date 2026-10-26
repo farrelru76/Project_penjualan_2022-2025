@@ -2,7 +2,7 @@
 
 Proyek analisis end-to-end atas **18.000 transaksi penjualan** (Jan 2022 – Des 2025) dari 6 negara, 4 kategori produk, dan 4 channel penjualan. Alur kerja: **MySQL** (cleaning & EDA) → **Power BI** (dashboard).
 
-![Dashboard Power BI](dashboard/dashboard-powerbi.png)
+![images](images/dashboard-powerbi.png)
 
 **Tools:** MySQL · Power BI
 
