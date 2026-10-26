@@ -19,7 +19,10 @@ Proyek analisis end-to-end atas **18.000 transaksi penjualan** (Jan 2022 – Des
 ├── dashboard/
 │   ├── penjualan.pbix
 │   └── dashboard-powerbi.png
+└──   Analisis_Penjualan_2022-2025.pptx
 └── README.md
+
+
 ```
 
 ---
