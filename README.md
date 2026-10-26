@@ -6,12 +6,12 @@ Analisis 18.000 transaksi penjualan (Jan 2022 – Des 2025) di 6 negara, 4 kateg
 Tools: MySQL · Power BI
 
 2. Pertanyaan Bisnis
-1. Bagaimana tren penjualan dan profit dari tahun ke tahun? Kapan musim ramai?
-2. Kategori produk, channel, dan negara mana yang paling berkontribusi?
-3. Apakah diskon benar-benar meningkatkan keuntungan?
-4. Seberapa besar kerugian akibat pembatalan dan retur, dan apa penyebabnya?
-5. Apakah kode promo efektif?
-6. Siapa pelanggan kita, dan seberapa loyal mereka?
+   1. Bagaimana tren penjualan dan profit dari tahun ke tahun? Kapan musim ramai?
+   2. Kategori produk, channel, dan negara mana yang paling berkontribusi?
+   3. Apakah diskon benar-benar meningkatkan keuntungan?
+   4. Seberapa besar kerugian akibat pembatalan dan retur, dan apa penyebabnya?
+   5. Apakah kode promo efektif?
+   6. Siapa pelanggan kita, dan seberapa loyal mereka?
 
    
 3. Proses Data Cleaning (cleaning_data.sql)
