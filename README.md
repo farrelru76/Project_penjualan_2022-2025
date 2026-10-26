@@ -5,22 +5,15 @@ Analisis 18.000 transaksi penjualan (Jan 2022 – Des 2025) di 6 negara, 4 kateg
 
 Tools: MySQL · Power BI
 
-Struktur repo (sesuaikan):
-
-├── data/
-│   ├── Sales_transactions_2022_2025.csv   # data mentah
-│   └── datfinal.csv                       # data bersih
-├── sql/
-│   ├── cleaning_data.sql
-│   └── eda.sql
-└── dashboard/dashboard-powerbi.png
 2. Pertanyaan Bisnis
-Bagaimana tren penjualan dan profit dari tahun ke tahun? Kapan musim ramai?
-Kategori produk, channel, dan negara mana yang paling berkontribusi?
-Apakah diskon benar-benar meningkatkan keuntungan?
-Seberapa besar kerugian akibat pembatalan dan retur, dan apa penyebabnya?
-Apakah kode promo efektif?
-Siapa pelanggan kita, dan seberapa loyal mereka?
+1. Bagaimana tren penjualan dan profit dari tahun ke tahun? Kapan musim ramai?
+2. Kategori produk, channel, dan negara mana yang paling berkontribusi?
+3. Apakah diskon benar-benar meningkatkan keuntungan?
+4. Seberapa besar kerugian akibat pembatalan dan retur, dan apa penyebabnya?
+5. Apakah kode promo efektif?
+6. Siapa pelanggan kita, dan seberapa loyal mereka?
+
+   
 3. Proses Data Cleaning (cleaning_data.sql)
 
 Data mentah: 18.045 baris, 36 kolom. Hasil akhir: 18.000 baris, ditambah 6 kolom flag.
