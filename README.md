@@ -9,8 +9,9 @@ Proyek analisis end-to-end atas **18.000 transaksi penjualan** (Jan 2022 – Des
 ## 📁 Struktur Repository
 
 ```
-├── data/
+├── data/data mentah
 │   ├── Sales_transactions_2022_2025.csv   # data mentah (18.045 baris)
+├── data/data cleaning
 │   └── datfinal.csv                       # data bersih (18.000 baris) -> sumber dashboard
 ├── sql/
 │   ├── cleaning_data.sql                  # proses pembersihan data
